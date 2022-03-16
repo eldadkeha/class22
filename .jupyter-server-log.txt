@@ -52,3 +52,35 @@ TermSocket.open: Opened 2
 [I 07:15:29.922 NotebookApp] Saving file at /G10.ipynb
 [I 07:16:35.300 NotebookApp] Saving file at /G11.ipynb
 [I 07:17:41.823 NotebookApp] Saving file at /requirements.txt
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
+[W 07:21:05.986 NotebookApp] Replacing stale connection: 0bcbb2ce-d8d9-42ab-adf9-784a5c7239b1:56bf2137-daae-453e-a912-b775570d4bf3
+[W 07:21:11.296 NotebookApp] Replacing stale connection: 26b0b3d8-d68c-41be-82e1-b4a0342b815d:bbe9de6c-ad61-4afb-9d0a-327ebdefc048
+[I 07:21:16.298 NotebookApp] Starting buffering for 26b0b3d8-d68c-41be-82e1-b4a0342b815d:bbe9de6c-ad61-4afb-9d0a-327ebdefc048
+[I 07:21:16.301 NotebookApp] Restoring connection for 26b0b3d8-d68c-41be-82e1-b4a0342b815d:bbe9de6c-ad61-4afb-9d0a-327ebdefc048
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+[W 07:21:29.984 NotebookApp] Replacing stale connection: 0bcbb2ce-d8d9-42ab-adf9-784a5c7239b1:a1b8857c-3388-469f-adaf-7f26a6b9082a
+[W 07:22:27.531 NotebookApp] WebSocket ping timeout after 119912 ms.
+Websocket closed
+[W 07:22:47.184 NotebookApp] WebSocket ping timeout after 119817 ms.
+Websocket closed
+[W 07:23:04.991 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 07:23:20.827 NotebookApp] Replacing stale connection: 0bcbb2ce-d8d9-42ab-adf9-784a5c7239b1:56bf2137-daae-453e-a912-b775570d4bf3
+[I 07:23:25.829 NotebookApp] Starting buffering for 0bcbb2ce-d8d9-42ab-adf9-784a5c7239b1:56bf2137-daae-453e-a912-b775570d4bf3
+[I 07:23:25.831 NotebookApp] Restoring connection for 0bcbb2ce-d8d9-42ab-adf9-784a5c7239b1:56bf2137-daae-453e-a912-b775570d4bf3
+[W 07:23:35.669 NotebookApp] WebSocket ping timeout after 119920 ms.
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+Websocket closed
+[W 07:23:40.874 NotebookApp] Replacing stale connection: 26b0b3d8-d68c-41be-82e1-b4a0342b815d:bbe9de6c-ad61-4afb-9d0a-327ebdefc048
+[I 07:23:45.876 NotebookApp] Starting buffering for 26b0b3d8-d68c-41be-82e1-b4a0342b815d:bbe9de6c-ad61-4afb-9d0a-327ebdefc048
+[I 07:23:45.879 NotebookApp] Restoring connection for 26b0b3d8-d68c-41be-82e1-b4a0342b815d:bbe9de6c-ad61-4afb-9d0a-327ebdefc048
+[W 07:23:57.637 NotebookApp] WebSocket ping timeout after 118820 ms.
+Websocket closed
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
